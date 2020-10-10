@@ -5,5 +5,5 @@ This code will display boot options passed to the kernal with short description 
 
 
 
-Roll.no. 9 - 12
+
 
